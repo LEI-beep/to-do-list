@@ -1,0 +1,33 @@
+{
+  "username": "john_doe",
+  "title": "testing",
+  "lists": [
+    "Buy milk",
+    "Get eggs",
+    "Pick up bread"
+  ],
+  "status": "true"
+}
+
+
+{
+  "title_id": 2
+}
+
+{
+  "title_id": 3,
+  "list_id": 1,
+  "status": true
+}
+
+
+
+{
+  "title_id": 1,
+  "list": [
+    "list1",
+    "list2",
+    "list3"
+  ]
+}
+
